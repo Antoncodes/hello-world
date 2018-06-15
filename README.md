@@ -5,4 +5,4 @@ I'm currently learning web-development @freecodecamp.org after which I'd also li
 learn server-side languages as well.
 
 I'd definitely like to explore other programming languages as well.
-
+I'm also open to learning new technologies and exploring the field of AI and machine learning.
